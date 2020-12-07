@@ -8,7 +8,7 @@ plot(first:last,dbinom(first:last, size, prob))
 #-----------------------------------------------
 #Probabilita' di un evento (valore singolo)
 pbinom(x, size,prob)
-#Esempio ottenere 21 teste da 51 lanci di una moneta
+#Esempio: p di ottenere 21 teste lanciando 51 volte una moneta
 #pbinom(21,51,0.5)
 #-----------------------------------------------
 #Questa funzione prende il valore di probabilità e fornisce un numero
