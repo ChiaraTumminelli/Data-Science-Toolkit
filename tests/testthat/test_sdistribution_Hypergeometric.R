@@ -1,3 +1,5 @@
+library(testthat)
+
 test_that("autotest", {
   autotest_sdistribution(
     sdist = Hypergeometric,
