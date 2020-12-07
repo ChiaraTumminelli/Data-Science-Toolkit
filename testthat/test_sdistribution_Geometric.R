@@ -1,3 +1,5 @@
+library(testthat)
+
 test_that("autotest_failures", {
   autotest_sdistribution(
     sdist = Geometric,
