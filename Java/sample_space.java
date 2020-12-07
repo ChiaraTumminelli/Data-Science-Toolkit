@@ -17,13 +17,7 @@ public class sample_space {
     for (int i = 0; i < elem.length; i++) {
         for (int j = 0; j < elem.length; j++) {
             //for (int g = 0; g < elem.length; g++){
-               // for (int h = 0; h < elem.length; h++){
-                   // for (int y = 0; y < elem.length; y++){
-                        //for (int z = 0; z < elem.length; z++){
                             System.out.println("Sequenza: " + elem[ i] + elem[j]);
-                        //}
-                  //  } 
-                //}
            // }
         }
    }
