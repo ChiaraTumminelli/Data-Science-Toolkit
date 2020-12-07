@@ -1,3 +1,5 @@
+library(testthat)
+
 test_that("autottest", {
   autotest_sdistribution(
     Binomial,
