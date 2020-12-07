@@ -1,4 +1,4 @@
 library(testthat)
-library(distr6)
+library(Probability-Statistics-tools)
 
-test_check("distr6")
+test_check("Probability-Statistics-tools")
