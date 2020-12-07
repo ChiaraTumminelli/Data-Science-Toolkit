@@ -22,4 +22,4 @@ qbinom(p, size, prob)
 rbinom(n, size, prob)
 #Esempio trovare 8 variabili da un campione di 150 con probabilita' 0.4
 #rbinom(8,150,0.4)
-#-----------------------------------------------
+
