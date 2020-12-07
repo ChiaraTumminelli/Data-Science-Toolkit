@@ -1,7 +1,7 @@
 #Probabilita' in ogni punto
 dbinom(first:last, size, prob)
 #Esempio: dbinom(1:5, 5, 0.2)
-#-----------------------------------------------
+
 #Per vedere il grafico
 plot(first:last,dbinom(first:last, size, prob))
 #Esempio: plot(1:5, dbinom(1:5, 5, 0.2))
