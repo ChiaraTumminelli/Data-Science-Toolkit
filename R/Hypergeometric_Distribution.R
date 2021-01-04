@@ -11,7 +11,6 @@ qhyper(x, m, n, k)
 #Restituisce deviazioni casuali
 rhyper(x, m, n, k)
 
-
 #ESEMPIO
 # x = palline bianche estratte senza reimbussolamento
 # m = totale delle palline bianche nell'urna
