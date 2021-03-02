@@ -25,10 +25,6 @@
 13  #palline colorate
 #numero di palline verdi e' il numero ottenuto lanciando un dado equo
 
-#
-#
-#
-
 #Consegna 2
 
 #Esercizio 1
@@ -64,11 +60,3 @@ pnorm(283,300,26)-pnorm(253,300,26)    #compreso tra 253 e 283
 qnorm(0.30,300,26)                     #valori maggiori il 70%
 16*300+7                               #E(16X+7)
 16*26                                  #StDev(16X+7)
-
-
-
-
-
-
-
-
